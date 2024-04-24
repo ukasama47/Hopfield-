@@ -1,19 +1,4 @@
-//
-//  hopfield_sample_modified1.cpp
-//
-//  Created by Naoki Masuyama on 2020/05/08.
-//  Copyright © 2020 Naoki Masuyama. All rights reserved.
-//
 
-
-
-
-//////////////////////////////////////////////////////
-
-// 学籍番号： 1211201118
-// 氏名： 林優花
-
-//////////////////////////////////////////////////////
 
 
 
