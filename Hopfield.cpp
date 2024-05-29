@@ -1,8 +1,3 @@
-
-
-
-
-
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
@@ -197,28 +192,7 @@ int main(int argc, const char * argv[])
     // □□■■■□□□
     
     
-    // Write Association Process here...
-    // internal_state = W_xx * X_in, then X_out = \phi(internal_state)
-    // If you conduct an association process once, you may get an incorrect "E".
-    // How to associate a correct "E"?
-    // Note that X_in is used as the initial internal_state. Do not use X_out of Exercise 1 directly.
-    // Association processes in Exercise 2 should be written by using for-loop, efficiently.
-    // Do not write as:
-    // for(
-    //   // 1st association process 
-    // )
-    // for(
-    //   // 2nd association process 
-    // )
-    // ...
-    // Write as:
-    // for( // Loop for association process
-    //     for(
-    //      // association process
-    //     )
-    // )
-    // Do not initialize an internal_state after an association process.
-    // Recall E by updating the internal_state continually.
+
 
   
     // 未完成部分　これ以降に記述////////////////////////////
